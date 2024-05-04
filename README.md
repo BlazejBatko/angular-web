@@ -1,5 +1,6 @@
 ## installation
-$ npm i
+
+> $ npm i
 
 ## start dev server
-$ ng serve --port 4200
+> $ ng serve --port 4200
